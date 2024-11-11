@@ -24,6 +24,8 @@ export {
     Select,
     RTE,
     Signup,
+    Login,
     PostCard,
-    PostForm
+    PostForm,
+    AuthLayout
 }
